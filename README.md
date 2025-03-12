@@ -1,17 +1,23 @@
-# FULL v0 System Prompts AND AI models used by v0
+# FULL v0, Cursor and Manus System Prompts and AI models
 
-I managed to get ~~a big part of~~ FULL official v0 system prompts and AI models info. Over 2.2k lines
+I managed to get ~~a big part of~~ FULL official v0, Manus anf Cursor (Sonnet-3.7 based) system prompts and AI models. Over 5k lines
 
-# Any questions or suggestions for other platforms? ---> Open an issue.
+# What do you want to see next? ---> Open an issue.
 
-LATEST UPDATE: 06/03/2025
+LATEST UPDATE: 11/03/2025
 
-You can check it out in v0.txt and v0 model.txt
-
-~~And now the question is, what model is v0 using? soon. 👀~~ v0 AI MODELS INFO RELEASED! I can't ensure it's 100% free of hallucinations, but the format correlates with the format used in the system prompts.
-
-The default model of v0 is GPT-4o, and for reasoning, it uses DeepSeek. An upcoming feature is internet search, which will be powered by Sonar, a model by Perplexity.
-
+You can check it out in v0.txt, v0 model.txt, v0 tools.txt, cursor agent.txt, cursor ask.txt (soon), cursor edit.txt (soon) and Manus folder.
 
 # X ---> NotLucknite
 # Discord ---> x1xh
+
+
+## Star History
+
+<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
+ </picture>
+</a>
